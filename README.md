@@ -2,7 +2,7 @@
 
 ## This is application is a command line interface that is similar to Amazon. The application takes in orders from customers and changes the inventory.
 
-## Some dependencies needed to run my version of the appilcation are:
+## Some dependencies needed to run my version of the application are:
 * npm install:
     * inquirer
     * figlet
